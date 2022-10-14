@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "generateur_de_phrases", "generateur_de_phrases\generateur_de_phrases.csproj", "{4DDB5ACF-E6AE-495D-B2BD-C09FC4F70C62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DDB5ACF-E6AE-495D-B2BD-C09FC4F70C62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DDB5ACF-E6AE-495D-B2BD-C09FC4F70C62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DDB5ACF-E6AE-495D-B2BD-C09FC4F70C62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DDB5ACF-E6AE-495D-B2BD-C09FC4F70C62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D289EA8D-C638-4BAC-8A85-29B7FCE56C0A}
+	EndGlobalSection
+EndGlobal
